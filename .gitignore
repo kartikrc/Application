@@ -1,0 +1,20 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.tmp
+*.temp
+*.swp
+*.bak
+*.orig
+
+# Visual Studio
+.vs/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
